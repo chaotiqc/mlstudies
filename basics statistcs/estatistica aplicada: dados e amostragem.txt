@@ -1,0 +1,4 @@
+Dados: Informacoes provenientes de contagens, medidas, observacoes e respostas. Quando agrupados formam conjuntos de dados.
+Conjunto de Dados:
+1) Populacao: relacao de todos os dados de interesse. Sao extraidos parametros.
+2) Amostra: um subconjunto da populacao. Sao extraidas estatisticas.

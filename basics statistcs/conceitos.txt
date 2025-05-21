@@ -1,0 +1,18 @@
+Ciencia que objetiva coletar, organizar, analisar e interpretar dados para tomadas de decisao
+Estatisticas:
+Descritiva: 
+- Tipos de Variaveis
+- Populacao e Amostragem
+- Medidas de centralidade: Media, moda e mediana
+- Medidas de Posicao: Amplitude e Quartis
+- Medidas de Dispersao: Variancia e Desvio Padrao
+
+Probabilistica:
+- Conceitos de probabilidade (espaco amostral, eventos e tipos de probabilidades)
+- Distribuicoes de probabilidade discretas e continuas: Binomial, Poisson, Exponencial e Normal
+
+Inferencial:
+- Estimativa: estimacao de parametros e intervalo de confiança
+- Testes de hipoteses: parametricos e nao parametricos
+- Correlaçao e regressao linear
+
