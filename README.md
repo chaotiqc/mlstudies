@@ -1,2 +1,2 @@
-# ml_studies
-a study repository about machine learning in python &lt;3
+# ML
+Anotações e códigos referentes ao estudo de Machine Learning em Python.
